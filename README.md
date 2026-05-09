@@ -1,16 +1,30 @@
-## Hi there 👋
+## Skills
 
-<!--
-**Jarul-web/Jarul-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming
+- Embedded C
+- C++
+- Python
+- Verilog HDL
 
-Here are some ideas to get you started:
+### Embedded Platforms
+- ESP32
+- STM32
+- 8051
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Protocols & Concepts
+- UART
+- SPI
+- I2C
+- FreeRTOS
+- IoT Communication
+
+### Tools
+- Keil uVision
+- STM32CubeIDE
+- Arduino IDE
+- Proteus
+- Git & GitHub
+
+### Industrial & Hardware
+- PLC Programming
+- PCB Design

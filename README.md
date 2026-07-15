@@ -1,30 +1,30 @@
 ## Skills
 
 ### Programming
-- Embedded C
-- C++
+- Java
 - Python
-- Verilog HDL
+- SQL
+- JavaScript
 
-### Embedded Platforms
-- ESP32
-- STM32
-- 8051
+### Backend Development
+- Spring Boot
+- REST APIs
+- Microservices
+- Hibernate/JPA
 
-### Protocols & Concepts
-- UART
-- SPI
-- I2C
-- FreeRTOS
-- IoT Communication
+### Databases
+- MySQL
+- PostgreSQL
 
-### Tools
-- Keil uVision
-- STM32CubeIDE
-- Arduino IDE
-- Proteus
-- Git & GitHub
+### DevOps & Cloud
+- Docker
+- Git
+- GitHub
+- CI/CD Basics
 
-### Industrial & Hardware
-- PLC Programming
-- PCB Design
+### Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Multithreading
+- Design Patterns
+- System Design Fundamentals
